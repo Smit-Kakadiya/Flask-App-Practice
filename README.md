@@ -1,7 +1,10 @@
 # Flask Application Practice
 - A simple web application that I did to teach me how to use Flask.
 
-# Technologies
+## Author
+- [Smit Kakadiya](https://www.SmitKakadiya.Ml)
+
+## Technologies
 - HTML
 - CSS
 - Python
